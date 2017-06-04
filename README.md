@@ -1,4 +1,4 @@
-First start on May 29th, 2017, Memorial Day.
+First started on May 29th, 2017, Memorial Day. Keep going!
 
 ## Contents
 ### First 20 Problems (May 29th - Jun 4th)
