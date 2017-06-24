@@ -1,5 +1,5 @@
 First started on May 29th, 2017, Memorial Day. Keep going!
-Have to work on at least 5 problems on Jun 61st.
+Have to work on at least 5 problems on Jun 24th.
 
 ## Contents
 ### First 20 Problems (May 29th - Jun 4th)
